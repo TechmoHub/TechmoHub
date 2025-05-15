@@ -29,13 +29,6 @@ Hi there! I'm Daniel, a Software Engineer passionate about building modern syste
 
 
 
-## Let's Connect! 🔗
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/daniel-pheello-radebe-204a44247) 
-
-[Gmail](danielpheelloradebe@gmail.com)
-
-
 ---
 
 Thanks for visiting my profile! 😊
